@@ -5,10 +5,11 @@
 <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
 
-I get questions by email, occasionally. This way anyone can read the answer!
+ [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/iamsivab
-/ama)
+### I get questions by email, occasionally. This way anyone can read the answer!
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/iamsivab/ama)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code.
 Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
@@ -29,8 +30,12 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/iamsivab/ama.svg)](https://github.com/iamsivab/ama/blob/master/LICENSE)
+### :scroll: License ? 
+
+[![GitHub license](https://img.shields.io/github/license/iamsivab/ama.svg)](https://github.com/iamsivab/ama/blob/master/LICENSE)
+
 This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+
 © [Sivasubramanian](https://GitHub.com/iamsivab)
 
 [![Maintenance](https://img.shields.io/badge/Maintenance%3F-Yes-green.svg)](https://GitHub.com/iamsivab/ama/graphs/commit-activity)
