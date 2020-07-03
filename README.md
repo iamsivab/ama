@@ -34,7 +34,7 @@ Cooking. Traveling. Sports. Teaching.  Freelancing. Whatever. :joy:
 
 [![GitHub license](https://img.shields.io/github/license/iamsivab/ama.svg)](https://github.com/iamsivab/ama/blob/master/LICENSE)
 
-This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](http://lbesson.mit-license.org/)).
 
 © [Sivasubramanian](https://GitHub.com/iamsivab)
 
